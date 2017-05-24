@@ -1,5 +1,5 @@
 # Siralama-Algoritmalari-Testi
-
+Murat Karçiga ile ortak projemizdir
 Youtube üzerinden algoritmaların mantığını anlatmaya çalıştım aşağıdaki linkten ulaşabilirsiniz.
 https://youtu.be/qpZFl2ITY2Q
 
