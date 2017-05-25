@@ -10,7 +10,7 @@ public class QuickSort {
 		int pivot=dizi[ui];
 		int i=ai-1;
 		
-		for(int j=ai;j<ui-1;j++){
+		for(int j=ai;j<=ui-1;j++){
 			if(dizi[j]<=pivot){
 				i++;
 				tmp=dizi[i];
